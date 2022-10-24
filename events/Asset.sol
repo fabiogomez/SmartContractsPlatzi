@@ -12,3 +12,4 @@ contract Asset {
         emit ChangeName(msg.sender, newName);
     }
 }
+1000000000000000000
